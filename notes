@@ -1,1 +1,1 @@
-g++ main.cpp  graphics.cpp oject.cpp gameFactory.cpp -lncurses -o test
+g++ main.cpp  graphics.cpp object.cpp gameFactory.cpp -lncurses -o test
